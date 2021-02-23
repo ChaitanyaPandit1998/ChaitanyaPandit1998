@@ -5,7 +5,7 @@
 - 💬 Ask me about Data Science, Machine Learning and tech related stuff.
 - 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/chaitanya-pandit-40325a172/
 
-[![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaitanyaPandit1998)](https://github.com/ChaitanyaPandit1998/github-readme-stats)
+[![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaitanyaPandit1998&show_icons=true&theme=radical)](https://github.com/ChaitanyaPandit1998/github-readme-stats)
 
 <!--
 **ChaitanyaPandit1998/ChaitanyaPandit1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

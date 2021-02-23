@@ -1,5 +1,10 @@
 ### Hi! I am Chaitanya 😃👋
 
+
+- 🔭 I’m currently working on Audio Signal Processing.
+- 💬 Ask me about Data Science, Machine Learning and tech related stuff.
+- 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/chaitanya-pandit-40325a172/
+
 <!--
 **ChaitanyaPandit1998/ChaitanyaPandit1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

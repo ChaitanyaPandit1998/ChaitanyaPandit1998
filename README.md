@@ -4,7 +4,10 @@
 - 🔭 I’m currently working on Audio Signal Processing.
 - 💬 Ask me about Data Science, Machine Learning and tech related stuff.
 - 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/chaitanya-pandit-40325a172/
-
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/chaitanya-pandit-40325a172/"
 [![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaitanyaPandit1998&show_icons=true&theme=radical)](https://github.com/ChaitanyaPandit1998/github-readme-stats)
 
 

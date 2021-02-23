@@ -1,4 +1,4 @@
-### Hi! I am Chaitanya 😃👋
+### Hi there 👋 I am Chaitanya 😃
 
 
 - 🔭 I’m currently working on Audio Signal Processing.
@@ -9,7 +9,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaPandit1998&show_icons=true&theme=radical)](https://github.com/ChaitanyaPandit1998/github-readme-stats)
-
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/chaitanya-pandit-40325a172/)
 <!--
 **ChaitanyaPandit1998/ChaitanyaPandit1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -5,7 +5,7 @@
 - 💬 Ask me about Data Science, Machine Learning and tech related stuff.
 - 📫 How to reach me:-
       
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-pandit-40325a172/)
+     [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-pandit-40325a172/)
 <!--[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chaitanya_2911/)-->
 
 [![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChaitanyaPandit1998&show_icons=true&theme=radical)](https://github.com/ChaitanyaPandit1998/github-readme-stats)

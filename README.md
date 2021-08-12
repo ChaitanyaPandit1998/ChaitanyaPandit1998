@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Chaitanya 😃
 
 
-- 🔭 I’m currently working on Audio Signal Processing.
+<!-- - 🔭 I’m currently working on Audio Signal Processing. -->
 - 💬 Ask me about Data Science, Machine Learning and tech related stuff.
 - 📫 How to reach me:-
       

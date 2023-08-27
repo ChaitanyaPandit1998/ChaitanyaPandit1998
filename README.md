@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Chaitanya 😃
 
 
-<!-- - 🔭 I’m currently working on Audio Signal Processing. -->
-- 💬 Ask me about Data Science, Machine Learning and tech related stuff.
+Quantitative software developer with more than 1 year of experience developing technological tools and platforms for portfolio managers, individual investors for portfolio risk management. Good experience in VAR methodologies, risk attributions strategies for Fixed Income asset class. Highly skilled in communications, agile development, Java and Python related frameworks.
+
 - 📫 How to reach me:-
       
      [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanya-pandit-40325a172/)
